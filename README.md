@@ -13,7 +13,7 @@ As a governance analyst it is part of your duties to assess the level of protect
 
 <p>Over the internet, a lot of well known and historical hash functions are flooded which provides data security for authentication like MD4(128), MD5(128), SHA-1(160), SHA-2(224,256), SHA-3 (224, 256, 384, 512) and many more.
 Out of these functions MD4, MD5, SHA1 Are not recommended for usage anymore.</p>
-<br>
+
 
 <p>Here is a sample data file containing hashes dumped together:<p><br>
 https://github.com/ne3lakolkar/Goldman-Sachs-Crack-Leaked-Passsword-Database/blob/main/passwd_dump.txt
@@ -25,7 +25,7 @@ You can include several new things in your password policy. My recommendations a
 • Include special characters, Capital and Small letters, and numbers in your password.<br>
 • Don’t let users include their username, actual name, date of birth and other personal information while creating a password.<br>
 • Train your users to follow these policies to keep their passwords safe.<br>
-
+<br><br>
 
 Thanking you, <br>
 Name: Baibhav<br>
@@ -73,10 +73,10 @@ johnwick007:f6a0cb102c62879d397b12b62c092c06 - bluered
 
 ##  Resources 
 
-https://hashcat.com
-https://howsecureismypassword.net/
-https://en.wikipedia.org/wiki/Password_cracking#Software
-https://en.wikipedia.org/wiki/Salt_(cryptography)
+https://hashcat.com  <br>
+https://howsecureismypassword.net/  <br>
+https://en.wikipedia.org/wiki/Password_cracking#Software  <br>
+https://en.wikipedia.org/wiki/Salt_(cryptography)  <br>
 
 
 
