@@ -6,30 +6,31 @@
 As a governance analyst it is part of your duties to assess the level of protection offered by implemented controls and minimize the probability of a successful breach. You often need to know the techniques used by hackers to circumvent implemented controls and propose uplifts to increase the overall level of security in an organization. Gaining valid credentials gives the attackers access to the organization’s IT system, thus circumventing most perimeter controls in place.
 
 ## Project Objective:
-`What type of hashing algorithm was used to protect passwords?`
-`What level of protection does the mechanism offer for passwords?`
-`What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?`
-`What would you change in the password policy to make breaking the passwords harder?`
+`What type of hashing algorithm was used to protect passwords?`<br>
+`What level of protection does the mechanism offer for passwords?`<br>
+`What controls could be implemented to make cracking much harder for the hacker in the event of a password database leaking again?`<br>
+`What would you change in the password policy to make breaking the passwords harder?`<br>
 
 <p>Over the internet, a lot of well known and historical hash functions are flooded which provides data security for authentication like MD4(128), MD5(128), SHA-1(160), SHA-2(224,256), SHA-3 (224, 256, 384, 512) and many more.
 Out of these functions MD4, MD5, SHA1 Are not recommended for usage anymore.</p>
+<br>
 
 <p>Here is a sample data file containing hashes dumped together:<p><br>
 https://github.com/ne3lakolkar/Goldman-Sachs-Crack-Leaked-Passsword-Database/blob/main/passwd_dump.txt
 <p>After the conducted analysis it was determined that the organization uses an outdated password hashing algorithm (MD5) which offers very little protection in the event of a password database leaking. It was also determined that the current password policy is not aligned with industry best practices allowing users to have short passwords (6 characters) and reuse usernames as part of passwords. 
-You can include several new things in your password policy. My recommendations are:</p>
-• Avoid common words and character combinations in your password.
-• Longer passwords are better, 8 characters is a starting point.
-• Don’t reuse your passwords.
-• Include special characters, Capital and Small letters, and numbers in your password.
-• Don’t let users include their username, actual name, date of birth and other personal information while creating a password.
-• Train your users to follow these policies to keep their passwords safe.
+You can include several new things in your password policy. My recommendations are:</p><br>
+• Avoid common words and character combinations in your password.<br>
+• Longer passwords are better, 8 characters is a starting point.<br>
+• Don’t reuse your passwords.<br>
+• Include special characters, Capital and Small letters, and numbers in your password.<br>
+• Don’t let users include their username, actual name, date of birth and other personal information while creating a password.<br>
+• Train your users to follow these policies to keep their passwords safe.<br>
 
 
-Thanking you, 
-Name: Baibhav
-B.Tech Electronics and Communication Engineering
-NIT Hamirpur
+Thanking you, <br>
+Name: Baibhav<br>
+B.Tech Electronics and Communication Engineering<br>
+NIT Hamirpur<br>
 
 ## Observations:
 ```
